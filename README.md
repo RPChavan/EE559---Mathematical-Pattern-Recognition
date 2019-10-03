@@ -4,32 +4,32 @@ Mathematical Pattern Recognition is an introductory course concentrated on conce
 Instructor - Prof. B. Keith Jenkins
 
 Topics covered -
-1. Distribution-Free Classification
+1. Distribution-Free Classification - 
 --> Classifier design - different techniques
 * Discriminant functions
 * Linear, Non-linear
 * 2-class, multiclass
 
--->Training and Optimization for Supervised learning
+-->Training and Optimization for Supervised learning - 
 * Perceptron - Gradient Descent and Stochastic Descent)
 * Pseudoinverse/Minimum mean-squared error
 * Support Vector Machine
 
 
-2. Statistical Classification
+2. Statistical Classification - 
 --> Statistics are known -  Baye's decision theory
 * Optimal solutions for minimum-error and minimum-risk criteria
 --> Statistics are unknown - Nonparametric methods
 * Histogram techniques
 * Parzen windows
-* k-Nearest Neighbour classification
+* k-Nearest Neighbour classification - 
 --> Statistics are partially known - Parametric estimation
 * Maximum Likelihood
 * Maximum A Posteriori
 * Bayesian Estimation
 
 
-3. Artificial Neural Networks
+3. Artificial Neural Networks - 
 * Single layer Networks
 * Multiple layer Networks
 * Supervised learning algorithms
