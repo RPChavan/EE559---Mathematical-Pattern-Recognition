@@ -5,25 +5,25 @@ Instructor - Prof. B. Keith Jenkins
 
 Topics covered -
 1. Distribution-Free Classification - 
---> Classifier design - different techniques
+a) Classifier design - different techniques
 * Discriminant functions
 * Linear, Non-linear
 * 2-class, multiclass
 
--->Training and Optimization for Supervised learning - 
+b) Training and Optimization for Supervised learning - 
 * Perceptron - Gradient Descent and Stochastic Descent)
 * Pseudoinverse/Minimum mean-squared error
 * Support Vector Machine
 
 
 2. Statistical Classification - 
---> Statistics are known -  Baye's decision theory
+a) Statistics are known -  Baye's decision theory
 * Optimal solutions for minimum-error and minimum-risk criteria
---> Statistics are unknown - Nonparametric methods
+b) Statistics are unknown - Nonparametric methods
 * Histogram techniques
 * Parzen windows
 * k-Nearest Neighbour classification - 
---> Statistics are partially known - Parametric estimation
+c) Statistics are partially known - Parametric estimation
 * Maximum Likelihood
 * Maximum A Posteriori
 * Bayesian Estimation
