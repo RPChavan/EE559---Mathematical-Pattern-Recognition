@@ -5,6 +5,7 @@ Instructor - Prof. B. Keith Jenkins
 
 Topics covered -
 1. Distribution-Free Classification - 
+
 a) Classifier design - different techniques
 * Discriminant functions
 * Linear, Non-linear
@@ -17,12 +18,15 @@ b) Training and Optimization for Supervised learning -
 
 
 2. Statistical Classification - 
+
 a) Statistics are known -  Baye's decision theory
 * Optimal solutions for minimum-error and minimum-risk criteria
+
 b) Statistics are unknown - Nonparametric methods
 * Histogram techniques
 * Parzen windows
-* k-Nearest Neighbour classification - 
+* k-Nearest Neighbour classification 
+
 c) Statistics are partially known - Parametric estimation
 * Maximum Likelihood
 * Maximum A Posteriori
@@ -30,6 +34,7 @@ c) Statistics are partially known - Parametric estimation
 
 
 3. Artificial Neural Networks - 
+
 * Single layer Networks
 * Multiple layer Networks
 * Supervised learning algorithms
