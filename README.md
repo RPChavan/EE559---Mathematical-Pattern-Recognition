@@ -17,6 +17,7 @@ b) Training and Optimization for Supervised learning -
 * Support Vector Machine
 
 
+
 2. Statistical Classification - 
 
 a) Statistics are known -  Baye's decision theory
@@ -33,19 +34,24 @@ c) Statistics are partially known - Parametric estimation
 * Bayesian Estimation
 
 
+
 3. Artificial Neural Networks - 
 
 * Single layer Networks
 * Multiple layer Networks
 * Supervised learning algorithms
 
+
 FINAL PROJECT-
+
 Dataset Description -
+
 The dataset consists of data collected from heavy Scania trucks in everyday usage.
 The system in focus on the “Air Pressure system (APS) which generates pressurized air that are utilized in various functions in a truck, such as braking and gear changes.” 
 This is a 2-class problem, and the goal is to predict the failure of components in the APS system, given various inputs.
 
 Topics covered - 
+
 1. Data Preprocessing
 2. Compensation for unbalanced data
 3. Feature Space Dimensionality Adjustment
